@@ -17,7 +17,7 @@ const Sidebar = () => {
     <div className="w-64 h-screen bg-white shadow-lg">
       <div className="p-4">
         <img
-          src="logo.svg"
+          src="/logo.svg"
           alt="Finifi"
           className="h-8 text-black"
           
